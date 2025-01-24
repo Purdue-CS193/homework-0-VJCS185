@@ -1,3 +1,9 @@
+# Vijay's First CS193 Homework
+
+- I like how CS193 teaches students how to use tools that will help them create projects in the future.
+- I like that there is not a very heavy workload in CS193.
+- I like that the class is small and I can ask questions.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
